@@ -3,6 +3,12 @@
 ## 실행 방법
 
 ```bash
+# 레포지토리 클론
+git clone https://github.com/ANTARES-KOR/three-text-debug.git
+
+# 디렉토리로 이동
+cd three-text-debug
+
 # dependency 설치
 npm install
 
